@@ -10,13 +10,7 @@ Molecular visualization and editing tool for PDB files
 - **Multiple Visualization Options**: View proteins by chain, residue type, and more
 - **PDB Support**: Load and save standard PDB files with all modifications preserved
 
-## Installation
-
-### Option 1: Using the Executable
-
-Download the latest executable from the [releases page](https://github.com/your-username/deepmol/releases).
-
-### Option 2: From Source
+## Installation from Source
 
 ```bash
 # Clone the repository
