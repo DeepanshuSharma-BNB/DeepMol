@@ -62,10 +62,6 @@ pyinstaller --onefile --windowed DeepMol.py
 
 The executable will be created in the `dist` directory.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 Deepanshu Sharma
